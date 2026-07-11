@@ -1,12 +1,10 @@
 import React from 'react'
 
-const SearchRegistration = () => {
+const DeleteRegistration = () => {
   return (
     <div>
-
-        <h2><center>Search Registration</center></h2>
-        <div className="container">
-
+        <h1><center>DeleteRegistration</center></h1>
+         <div className="container">
             <div className="row">
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                     <div className="row">
@@ -19,10 +17,12 @@ const SearchRegistration = () => {
                         </div>
                     </div>
                 </div>
+                
             </div>    
     </div>
+
     </div>
   )
 }
 
-export default SearchRegistration
+export default DeleteRegistration
