@@ -16,6 +16,7 @@ const NavBar = () => {
         <a class="nav-link active" aria-current="page" href="/add">Add Registration</a>
         <a class="nav-link" href="/search">Search Registration</a>
         <a class="nav-link" href="/delete">Delete Registration</a>
+        <a class="nav-link" href="/view">View Registration</a>
         
       </div>
     </div>
